@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504431774228",
+    "firebase_url": "https://mentorx2-eb253.firebaseio.com",
+    "project_id": "mentorx2-eb253",
+    "storage_bucket": "mentorx2-eb253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504431774228:android:7eae2b3d8cbd88a8",
+        "android_client_info": {
+          "package_name": "com.farisgituthok.mentorx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504431774228-86bi3k8318kl7a5t4gv3ih5litu1a0b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farisgituthok.mentorx",
+            "certificate_hash": "213de6a9569b6048afde584c425fd33142cb97cd"
+          }
+        },
+        {
+          "client_id": "504431774228-pt74q8dvdq1lks2glui3vhn8sl22g1hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0I66L7DVEa91nruNSIz3UvJyS0OzgFb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504431774228-pt74q8dvdq1lks2glui3vhn8sl22g1hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
